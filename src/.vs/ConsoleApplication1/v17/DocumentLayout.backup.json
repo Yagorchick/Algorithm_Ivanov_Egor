@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\chris\\Desktop\\Collage\\Programming Systems\\Test 4\\ConsoleApplication1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A44C8E3A-04C3-4CC6-9694-602CDAA41ADB}|ConsoleApplication1.vcxproj|C:\\Users\\chris\\Desktop\\Collage\\Programming Systems\\Test 4\\ConsoleApplication1\\ConsoleApplication1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A44C8E3A-04C3-4CC6-9694-602CDAA41ADB}|ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A44C8E3A-04C3-4CC6-9694-602CDAA41ADB}|ConsoleApplication1.vcxproj|C:\\Users\\chris\\Desktop\\Collage\\Programming Systems\\Test 4\\ConsoleApplication1\\Constants.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A44C8E3A-04C3-4CC6-9694-602CDAA41ADB}|ConsoleApplication1.vcxproj|solutionrelative:Constants.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A44C8E3A-04C3-4CC6-9694-602CDAA41ADB}|ConsoleApplication1.vcxproj|C:\\Users\\chris\\Desktop\\Collage\\Programming Systems\\Test 4\\ConsoleApplication1\\ConsoleApplication1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A44C8E3A-04C3-4CC6-9694-602CDAA41ADB}|ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,26 +26,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Constants.h",
               "DocumentMoniker": "C:\\Users\\chris\\Desktop\\Collage\\Programming Systems\\Test 4\\ConsoleApplication1\\Constants.h",
               "RelativeDocumentMoniker": "Constants.h",
               "ToolTip": "C:\\Users\\chris\\Desktop\\Collage\\Programming Systems\\Test 4\\ConsoleApplication1\\Constants.h",
               "RelativeToolTip": "Constants.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-11-04T09:19:19.586Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ConsoleApplication1.cpp",
               "DocumentMoniker": "C:\\Users\\chris\\Desktop\\Collage\\Programming Systems\\Test 4\\ConsoleApplication1\\ConsoleApplication1.cpp",
               "RelativeDocumentMoniker": "ConsoleApplication1.cpp",
               "ToolTip": "C:\\Users\\chris\\Desktop\\Collage\\Programming Systems\\Test 4\\ConsoleApplication1\\ConsoleApplication1.cpp",
               "RelativeToolTip": "ConsoleApplication1.cpp",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA0AAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-11-04T08:33:19.115Z",
               "EditorCaption": ""
